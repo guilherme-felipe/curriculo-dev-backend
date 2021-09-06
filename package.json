@@ -1,0 +1,27 @@
+{
+  "name": "curriculo-dev-backend",
+  "version": "1.0.0",
+  "description": "curriculo dev no backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme-felipe/curriculo-dev-backend.git"
+  },
+  "author": "Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilherme-felipe/curriculo-dev-backend/issues"
+  },
+  "homepage": "https://github.com/guilherme-felipe/curriculo-dev-backend#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
